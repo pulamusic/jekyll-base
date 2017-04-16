@@ -5,12 +5,19 @@ date:   2017-04-16 12:57:00
 categories: jekyll update
 ---
 #Lorem
+
 ##ipsum
+
 ###dolor
+
 ####sit
+
 #####amet,
+
 ######consectetur
+
 #####adipiscing
+
 ####elit.
 
 [This is a link to a previous blog post](2017-04-15-First-Jekyl-Post.markdown)
@@ -31,6 +38,7 @@ categories: jekyll update
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are cheesy    |    $1 |
+
 
 Nulla vel ultrices mauris. Aliquam vestibulum at mauris vel consequat. Praesent dignissim hendrerit nisl, sed facilisis ex rutrum at. Suspendisse sagittis rhoncus enim a sollicitudin. Mauris dapibus iaculis felis nec iaculis. Maecenas in ipsum condimentum, auctor metus quis, gravida turpis. Integer elementum accumsan tortor ut vehicula. Vestibulum placerat metus elit, at lacinia nulla blandit ut. Proin commodo, lorem sed tempor faucibus, magna mauris iaculis eros, vestibulum tristique risus nunc eu sapien. Vestibulum tincidunt nec neque et facilisis. Praesent pulvinar volutpat neque, sit amet placerat massa imperdiet nec. Etiam vitae odio metus. Sed fermentum tempor erat eget aliquam.
 
