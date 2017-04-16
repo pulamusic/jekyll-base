@@ -26,6 +26,8 @@ categories: jekyll update
 
 [This is a link to a randomly chosen Wikipedia page](https://en.wikipedia.org/wiki/King_Kal%C4%81kaua%27s_world_tour)
 
+![Sun Ra]({{ http://insurance-saleman-seam-63071.netlify.com/ }}/media/150x219_SunRa_rollingstone_head.png)
+
 *Praesent faucibus elementum erat sed convallis*. Morbi lobortis auctor urna nec suscipit. Pellentesque blandit nunc et erat lacinia accumsan. *Morbi vitae nisl placerat, mattis augue a, feugiat metus*. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. **Duis egestas vehicula nisi sed faucibus**. Maecenas dictum sapien eu mi suscipit elementum. *In pharetra lacinia ipsum, id feugiat ante congue non*. Maecenas semper erat vel dapibus gravida. **Curabitur iaculis sollicitudin ipsum vitae ultricies**. Pellentesque a arcu tempus, lobortis diam eget, elementum leo.
 
 1. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed quis laoreet nibh.
