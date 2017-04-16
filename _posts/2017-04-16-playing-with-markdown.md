@@ -20,7 +20,8 @@ categories: jekyll update
 
 ####elit.
 
-[This is a link to a previous blog post](2017-04-15-First-Jekyl-Post.markdown)
+[This is a link to a previous blog post](2017-04-15-First-Jekyll-Post.markdown)
+
 [This is a link to a randomly chosen Wikipedia page](https://en.wikipedia.org/wiki/King_Kal%C4%81kaua%27s_world_tour)
 
 *Praesent faucibus elementum erat sed convallis*. Morbi lobortis auctor urna nec suscipit. Pellentesque blandit nunc et erat lacinia accumsan. *Morbi vitae nisl placerat, mattis augue a, feugiat metus*. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. **Duis egestas vehicula nisi sed faucibus**. Maecenas dictum sapien eu mi suscipit elementum. In pharetra lacinia ipsum, id feugiat ante congue non. Maecenas semper erat vel dapibus gravida. Curabitur iaculis sollicitudin ipsum vitae ultricies. Pellentesque a arcu tempus, lobortis diam eget, elementum leo.
