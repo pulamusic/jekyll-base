@@ -20,7 +20,9 @@ categories: jekyll update
 
 ####elit.
 
-[This is a link to a previous blog post](http://insurance-saleman-seam-63071.netlify.com/jekyll/update/2017/04/15/first-jekyll-post)
+[This is a link to a previous blog post using an absolute link](http://insurance-saleman-seam-63071.netlify.com/jekyll/update/2017/04/15/first-jekyll-post)
+
+[This is a link to a previous post using a relative link]{{ http://insurance-saleman-seam-63071.netlify.com/ }}{% post_url 2017-04-15-First-Jekyll-Post %}
 
 [This is a link to a randomly chosen Wikipedia page](https://en.wikipedia.org/wiki/King_Kal%C4%81kaua%27s_world_tour)
 
