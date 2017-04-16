@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Jim Carroll. I am an academic and musician living in Western Mass.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+As an academic, I specialize in the cultural history of some musicians associated with the Black Arts and Black Power Movements of the 1960s. As a musician, I play blues and jazz, and I gig far too little.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+No, I am not the Jim Carroll who wrote *The Basketball Diaries*; nor am I the James Carroll who writes for the *Boston Globe*. It is a handsome name, though, isn't it?
