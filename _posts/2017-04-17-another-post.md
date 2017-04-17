@@ -12,4 +12,4 @@ Like I said, I don't really have anything to say in particular. Currently I'm ju
 
 Nah, just fuck around. I'm not in the mood to get into anything deep. Maybe later.
 
-And just for the practice, why don't I include a link to a [random Wikipedia page](https://en.wikipedia.org/wiki/Villa_Park) as well as a relative link to a [previous blog post]({{http://insurance-saleman-seam-63071.netlify.com/}}{% post_url 2017-04-16-playing-with-markdown.md %}).
+And just for the practice, why don't I include a link to a [random Wikipedia page](https://en.wikipedia.org/wiki/Villa_Park) as well as a relative link to a [previous blog post]({{http://insurance-saleman-seam-63071.netlify.com/}}{% post_url 2017-04-16-playing-with-markdown %}).
