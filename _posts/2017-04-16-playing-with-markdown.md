@@ -2,7 +2,7 @@
 layout: post
 title:  "playing with markdown"
 date:   2017-04-16 12:57:00
-categories: jekyll update
+categories: markdown, style
 ---
 #Lorem
 
