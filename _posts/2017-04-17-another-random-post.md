@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "another blog post"
+title: "yet another blog post"
 date: 2017-04-17 18:20:00
 categories: miscellaneous
 ---
