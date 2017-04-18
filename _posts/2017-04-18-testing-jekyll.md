@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "another day"
+title: "a test post"
 date: 2017-04-18 15:43:00
 categories: miscellaneous
 ---
