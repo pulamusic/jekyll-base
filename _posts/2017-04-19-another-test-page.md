@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "procrastination"
-date: 2017-04-19 17:40:00
+title: "another test page"
+date: 2017-04-19 20:55:00
 categories: teaching
 ---
 
