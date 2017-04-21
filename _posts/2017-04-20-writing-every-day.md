@@ -2,7 +2,7 @@
 layout: post
 title: "writing every day"
 date: 2017-04-20 15:21:00
-categories: teaching, writing
+categories: writing
 ---
 
 #posting every day
