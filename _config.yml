@@ -11,8 +11,12 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 <<<<<<< HEAD
-theme: minima
+<<<<<<< HEAD
 =======
 
 theme: jekyll-theme-slate
+>>>>>>> origin/master
+=======
+
+
 >>>>>>> origin/master
