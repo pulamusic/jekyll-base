@@ -1,6 +1,6 @@
 ---
 layout: post
-title: mad at my students today
+title: "nothing much to say"
 date: 2017-04-26 20:01:00
 categories: teaching
 ---
