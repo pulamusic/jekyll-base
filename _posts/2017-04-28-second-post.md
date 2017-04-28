@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "second post today"
-date: 2017-04-28
+date: 2017-04-28 16:20:00
 categories: writing
 ---
 
