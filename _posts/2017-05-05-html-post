@@ -1,0 +1,18 @@
+---
+layout: post
+title: "another HTML post"
+date: 2017-05-05 17:10:00
+categories: coding
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>another HTML post</title>
+  <meta charset="utf-8"
+</head>
+<body>
+  <p>So here we go, a post in HTML. I don't have much to say. Let me add a photo to this page.</p>
+  <img src="150x219_SunRa_rollingstone_head.png" alt="Sun Ra">
+  <p>Like I said, not much to say today. Let me see how this page comes out.</p>
+</body>
+</html>
