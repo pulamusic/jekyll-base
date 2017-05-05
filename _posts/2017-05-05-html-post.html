@@ -4,13 +4,44 @@ title: "another HTML post"
 date: 2017-05-05 17:10:00
 categories: coding
 ---
+
 <!DOCTYPE html>
 <html>
 <head>
   <title>another HTML post</title>
-  <meta charset="utf-8"
+  <meta charset="utf-8">
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/css/materialize.min.css">
+
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js"></script>
+  <style>
+    p {
+      margin: 10px;
+    }
+    img {
+      margin: 20px;
+    }
+  </style>
+
 </head>
 <body>
+  <div class="col s12 m7">
+    <h2 class="header">Horizontal Card</h2>
+    <div class="card horizontal">
+      <div class="card-image">
+        <img src="http://lorempixel.com/100/190/nature/6">
+      </div>
+      <div class="card-stacked">
+        <div class="card-content">
+          <p>I am a very simple card. I am good at containing small bits of information.</p>
+        </div>
+        <div class="card-action">
+          <a href="#">This is a link</a>
+        </div>
+      </div>
+    </div>
+  </div>
   <p>So here we go, a post in HTML. I don't have much to say. Let me add a photo to this page.</p>
   <img src="150x219_SunRa_rollingstone_head.png" alt="Sun Ra">
   <p>Like I said, not much to say today. Let me see how this page comes out.</p>
