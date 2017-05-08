@@ -1,8 +1,8 @@
 ---
-Layout: post
-Title: "and another loop still"
-Date: 2017-05-08 18:21:00
-Categories: writing
+layout: post
+title: "and another loop still"
+date: 2017-05-08 18:34:00
+categories: writing
 ---
 
 Ok, now 10 minutes of freewriting.
