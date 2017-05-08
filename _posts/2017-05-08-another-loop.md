@@ -12,3 +12,5 @@ This writing stuff is ok, maybe a bit frustrating just now. I don't seem to be a
 I am getting frustrated with my efforts to get Zanaya enrolled in the Springfield school system. I have been there three times now and she is still not enrolled. They want to put her in 9th grade...
 
 This is five minutes of writing with a few distractions and pauses.
+
+I'm adding another sentence to I can re-sync GitHub Desktop.
