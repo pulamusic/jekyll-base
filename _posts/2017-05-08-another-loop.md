@@ -1,8 +1,8 @@
 ---
 Layout: post
 Title: "another loop"
-Date: 2017-05-06 17:46:00
-categories: writing
+Date: 2017-05-08 17:46:00
+Categories: writing
 ---
 
 I am going to try out exactly 5 minutes of freewriting, so I have set a timer and I am typing away. I'm going to keep going until the timer goes off.
