@@ -5,7 +5,7 @@ date: 2017-05-11 18:43:00
 categories: news writing
 ---
 
-###weird news
+##weird news
 
 I just read an article in the NY Times about polyamorous couples. The article gave me the creeps, thinking how awful it would be, given the way that I feel, to be a part of one of these relationships. Nobody in the article sounds all that secure to me, though that seems to be the main point the writer is trying to get across - the sense of security these couples feel. And really, should we be talking about them as couples still?
 
