@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Love in Outer Space"
-date: 2017-05-25 1800:00:00
+date: 2017-05-25 18:00:00
 categories: music writing
 ---
 
