@@ -14,3 +14,7 @@ I can also search for lyrics to see if I can save some time doing my own transcr
 In fact, now I'm looking forward to the next phase of writing. Let me stay with the freewriting blog for a while longer, increasing my output, and then some time this Summer I'll begin with the listening journal. If I am going to stick to the two or more posts per day model, then maybe one could be a listening journal entry while another could be commentary on the news.
 
 270 words.
+
+Ultimately, I should shoot for something like 500 words-per-day, but for now I'll use the leisurely 300 mark. 500 words is still modest, but over time it really adds up to something substantial. In fact, I really should be writing on a word processor so I can use the word count function more regularly. I like measurable goals.
+
+330 words.
