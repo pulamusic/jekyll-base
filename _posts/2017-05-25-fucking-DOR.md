@@ -2,7 +2,7 @@
 layout: post
 title: "fucking DOR"
 date: 2017-05-25 14:22:00
-categories: life writing
+categories: life
 ---
 
 #I want these fucking headlines to work
