@@ -1,0 +1,16 @@
+---
+layout: post
+title: "continuing on"
+date: 2017-05-25 16:31:00
+categories: writing
+---
+
+I feel like continuing with the writing, so here I go. I think I was beginning to speculate as to what a Sun Ra listening journal would look like. It would be cool if I could include at least one image and one embedded sound file with each post. This is easy enough with WordPress. I'm just not sure how much space there is for website resources like images and sound files. They do tend to be large files.
+
+In fact, if I am going to include images of albums I could begin collecting them now. I know in my dissertation folders I have a bunch of images that could be useful. In fact, I think I divided the images into separate files for Fela and for Sun Ra. I know I have a bunch of Fela album covers because I included some in the diss. I'm not sure about Sun Ra album covers.
+
+I can also search for lyrics to see if I can save some time doing my own transcriptions. I have some stuff transcribed, including, I think, the entire "Space Chant" lyric from the *Live in London* album. The lyrics by themselves could be entire blog posts.
+
+In fact, now I'm looking forward to the next phase of writing. Let me stay with the freewriting blog for a while longer, increasing my output, and then some time this Summer I'll begin with the listening journal. If I am going to stick to the two or more posts per day model, then maybe one could be a listening journal entry while another could be commentary on the news.
+
+270 words.
