@@ -5,7 +5,7 @@ date: 2017-05-25 14:22:00
 categories: life
 ---
 
-#I want these fucking headlines to work
+# I want these fucking headlines to work
 
 The Massachusetts DOR has put a lien on all of my bank accounts, so I can't do a damn thing. Now I can't buy groceries, pay my rent, anything. The lady at the DOR wants a copy of my 2008 tax return in order to get me "current." I really have no idea what that means, to get me current, and I have no idea where my 2008 tax return is. This is a total cluster fuck.
 
