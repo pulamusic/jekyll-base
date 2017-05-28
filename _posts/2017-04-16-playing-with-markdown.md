@@ -4,21 +4,21 @@ title:  "playing with markdown"
 date:   2017-04-16 12:57:00
 categories: markdown, style
 ---
-#Lorem
+# Lorem
 
-##ipsum
+## ipsum
 
-###dolor
+### dolor
 
-####sit
+#### sit
 
-#####amet,
+##### amet,
 
-######consectetur
+###### consectetur
 
-#####adipiscing
+##### adipiscing
 
-####elit.
+#### elit.
 
 [This is a link to a previous blog post using an absolute link](http://insurance-saleman-seam-63071.netlify.com/jekyll/update/2017/04/15/first-jekyll-post)
 
@@ -26,7 +26,7 @@ categories: markdown, style
 
 [This is a link to a randomly chosen Wikipedia page](https://en.wikipedia.org/wiki/King_Kal%C4%81kaua%27s_world_tour)
 
-![Sun Ra]({{ http://insurance-saleman-seam-63071.netlify.com/ }}/media/150x219_SunRa_rollingstone_head.png)
+![Sun Ra](150x219_SunRa_rollingstone_head.png)
 
 *Praesent faucibus elementum erat sed convallis*. Morbi lobortis auctor urna nec suscipit. Pellentesque blandit nunc et erat lacinia accumsan. *Morbi vitae nisl placerat, mattis augue a, feugiat metus*. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. **Duis egestas vehicula nisi sed faucibus**. Maecenas dictum sapien eu mi suscipit elementum. *In pharetra lacinia ipsum, id feugiat ante congue non*. Maecenas semper erat vel dapibus gravida. **Curabitur iaculis sollicitudin ipsum vitae ultricies**. Pellentesque a arcu tempus, lobortis diam eget, elementum leo.
 
@@ -34,7 +34,7 @@ categories: markdown, style
 2. Donec accumsan tellus eu ex tempus pretium. Praesent at quam et nisl posuere ornare et non ex.
   * Nam lacinia enim vel consectetur euismod. Sed vitae dignissim enim. Etiam placerat posuere metus ut vehicula.
 3. Donec gravida velit a condimentum faucibus. Mauris quis elit semper lorem mollis iaculis. Mauris vel nibh eget purus dignissim mollis non non purus.
-4. Quisque suscipit gravida viverra. Mauris tortor lectus, fringilla at vulputate vitae, convallis in dui. Proin at blandit tellus. 
+4. Quisque suscipit gravida viverra. Mauris tortor lectus, fringilla at vulputate vitae, convallis in dui. Proin at blandit tellus.
   * Maecenas eu sapien feugiat, auctor eros eu, ultrices ipsum.
   * Nulla non turpis condimentum, tempor ex nec, sollicitudin est.
 
