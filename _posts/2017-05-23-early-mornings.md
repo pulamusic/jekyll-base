@@ -5,7 +5,7 @@ date: 2017-05-23 07:46:00
 categories: writing
 ---
 
-##I like early mornings
+## I like early mornings
 
 This was one of my favorite things during graduate school: to get up early in order to read. And when I say read I include writing notes and annotations. Writing, for me, is all about reading. At least the academically substantive writing is very connected to reading. This freewriting stuff isn't.
 

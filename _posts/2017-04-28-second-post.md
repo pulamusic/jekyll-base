@@ -4,7 +4,7 @@ title: "second post today"
 date: 2017-04-28 16:20:00
 categories: writing
 ---
-#neighbors sometimes suck
+# neighbors sometimes suck
 
 As I said I would, here is the second post for the day. I just went to enroll Zanaya in school in Springfield, and the weather is so Spring-like I could have been wearing shorts. I say this only because it is so late in the school year to be moving the kid...
 

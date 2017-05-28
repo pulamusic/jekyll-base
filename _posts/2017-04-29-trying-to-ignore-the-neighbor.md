@@ -4,7 +4,7 @@ title: "trying to ignore my neighbor"
 date: 2017-04-29 16:48:00
 categories: life
 ---
-#...my loud fucking neighbor
+# ...my loud fucking neighbor
 
 Let be just try to ignore the thing in my life that irritates me like a pebble in my shoe - and even then, a pebble I can do something about, while I am powerless to do anything about this irritating neighbor.
 

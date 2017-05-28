@@ -4,7 +4,7 @@ title: "another day"
 date: 2017-04-18 11:46:00
 categories: miscellaneous
 ---
-#...yes, another day#
+# ...yes, another day #
 
 Let me just play around a bit with Markdown. It's a dead simple language, but I'm not satisfied with the way it presents photos. The text doesn't wrap around the image like a floated image in html. I suppose the solution is that I should write any multi-media blog posts in html. As long as I include the Markdown header html works great.
 

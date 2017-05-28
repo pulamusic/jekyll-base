@@ -5,7 +5,7 @@ date: 2017-05-23 15:37:00
 categories: writing
 ---
 
-##damn I wish these headings would work
+## damn I wish these headings would work
 
 I have officially done fuck all this afternoon. The one coding tutorial I tried is really poorly organized. At least from my perspective it is. I played the guitar for a bit, Elizabeth Cotton's Freight Train, but I didn't really click with it. I don't know why such a shit-simple song should be as difficult to play well, but after all these years I still fumble through it.
 

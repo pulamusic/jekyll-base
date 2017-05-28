@@ -5,7 +5,7 @@ date: 2017-04-21 14:55:00
 categories: writing
 ---
 
-#you ever get a pimple on the inside of your nose?
+# you ever get a pimple on the inside of your nose?
 
 I know, it's gross, but it's bugging me right now. My nose is very sore because I have a large pimple on the inside of my right nostril. My nose is throbbing, and there's nothing to do but chomp some Advil and try to ignore it. The thing can't be popped, so I just have to wait it out.
 

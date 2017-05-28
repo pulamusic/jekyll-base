@@ -5,7 +5,7 @@ date: 2017-04-20 15:21:00
 categories: writing
 ---
 
-#posting every day
+# posting every day
 
 I am going to write a post every day for a while to see what happens. My only sense of trepidation is if someone should stumble upon this blog they might think my writing is all fucked up. I'm freewriting just to get words on screen. The idea is that with practice one's frewriting will become more focused and sustained. That's the idea at least.
 
