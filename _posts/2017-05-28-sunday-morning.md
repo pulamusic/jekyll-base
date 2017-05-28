@@ -17,7 +17,7 @@ Ultimately, I need to sort out both development skills and design skills. While 
 
 So currently I am in the middle of the first design tutorial, having covered typography and color so far. I have to say that these tutorials throw a lot of details out there, leaving little room to absorb them. For instance, there are complementary and analogous color schemes - these are the ones I remember - but I can't say that I fully understand the difference. Something about changes in hue, lightness, and saturation.
 
-Just a quick look and I have found a explanation [here] (http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm). This ought to be a decent reference site. I have long thought that I need to use a better palette of colors for the pages I create, adding some thematic consistency. This is something I need to work out.
+Just a quick look and I have found a explanation [here](http://www.tigercolor.com/color-lab/color-theory/color-theory-intro.htm). This ought to be a decent reference site. I have long thought that I need to use a better palette of colors for the pages I create, adding some thematic consistency. This is something I need to work out.
 
 Ultimately, I would like to expand both my coding and design skills so that I am able to create a truly interesting and interactive site. What the site will be still alludes me to a certain degree, but I do know that I am not interested in creating a boring site that nobody will want to visit. My goal is to create a site for my students and for potential employers that highlights my work and interests. In a sense, the entire website could be a portfolio for my work. Either that, or it could be a blog with a separate portfolio.
 
