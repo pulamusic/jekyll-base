@@ -13,7 +13,7 @@ I know that sounds kind of goofy, but it makes sense to me. It's kind of like th
 
 So the idea is to write without stopping. I have a sense now as to what 500 words looks like, so I can glance at the word-count function less often. Even though I have set a goal of 350-500 words per post I want to be able to write without any external preoccupations. Word count should be about the last thing I look at.
 
-That being said, there is some craft involved in being able to hit a particular length or word count. It's not a trivial thing. Feewriting to a certain length is one thing, but being able to edit one's writing to fit a specific length is ultimately important for getting things published. In the end, that's the goal: publishing. Writing for the sake of writing is really not all that helpful if it isn't done in service to becoming a better "published" writer.
+That being said, there is some craft involved in being able to hit a particular length or word count. It's not a trivial thing. Freewriting to a certain length is one thing, but being able to edit one's writing to fit a specific length is ultimately important for getting things published. In the end, that's the goal: publishing. Writing for the sake of writing is really not all that helpful if it isn't done in service to becoming a better "published" writer.
 
 Becoming a published writer ought to be the goal for all of my blogging. This current blog produces the raw material that can then be edited into more substantial posts for the [pulamusic.com](http://www.pulamusic.com) blog. Those posts, ultimately, can lead to better and more consistently produced writing.
 
