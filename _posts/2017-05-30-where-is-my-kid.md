@@ -11,12 +11,11 @@ Zanaya apparently left school this morning after the principal confronted her fo
 
 Here's another Markdown table. Atom has a table snippet that makes table creation super simple.
 
-------------------------------------------------------
->| **Header One** | **Header Two** | **Header Three**|
->| :------------- | :------------- | :-------------- |
->| something      | something else | and again       |
+-----------------------------------------------------------------
+>| **Header One**     | **Header Two**     | **Header Three**    |
+>| :-------------     | :-------------     | :--------------     |
+>| something          | something else     | and again           |
 
-------------------------------------------------------
-
+-----------------------------------------------------------------
 
 I can't really focus my thoughts just now. Let me post this and then write more later.
