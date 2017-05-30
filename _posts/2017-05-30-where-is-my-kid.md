@@ -15,6 +15,7 @@ Here's another Markdown table. Atom has a table snippet that makes table creatio
 >| **Header One** | **Header Two** | **Header Three**|
 >| :------------- | :------------- | :-------------- |
 >| something      | something else | and again       |
+
 ------------------------------------------------------
 
 
