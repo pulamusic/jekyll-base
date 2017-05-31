@@ -17,33 +17,33 @@ Do people really not pay attention to the fundamentals? One of the things that h
 
 Speaking of coding, one thing I haven't tried with Markdown is its ability to present code in a post. Let me try it out below using an example from one of my CodePens.
 
-```var input = document.querySelector('.numberInput');
-    var para = document.querySelector('#output');```
+>```var input = document.querySelector('.numberInput');
+>    var para = document.querySelector('#output');```
 
-```function squared(num) {
-  return num * num;
-}```
+>```function squared(num) {
+>  return num * num;
+>}```
 
-```function cubed(num) {
-  return num * num * num;
-}```
+>```function cubed(num) {
+>  return num * num * num;
+>}```
 
-```function factorial(num) {
-  var x = num;
-  while (x > 1) {
-    num *= x-1;
-    x--;
-  }
-  return num;
-}```
+>```function factorial(num) {
+>  var x = num;
+>  while (x > 1) {
+>    num *= x-1;
+>    x--;
+>  }
+>  return num;
+>}```
 
-```input.onchange = function() {
-  var num = input.value;
-  if (isNaN(num)) {
-    para.textContent = 'You need to enter a number!';
-  } else {
-    para.textContent = num + ' squared is ' + squared(num) + '. ' +
-                       num + ' cubed is ' + cubed(num) + '. ' +
-                       num + ' factorial is ' + factorial(num) + '.';
-  }
-}```
+>```input.onchange = function() {
+>  var num = input.value;
+>  if (isNaN(num)) {
+>    para.textContent = 'You need to enter a number!';
+>  } else {
+>    para.textContent = num + ' squared is ' + squared(num) + '. ' +
+>                       num + ' cubed is ' + cubed(num) + '. ' +
+>                       num + ' factorial is ' + factorial(num) + '.';
+>  }
+>}```
