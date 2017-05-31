@@ -5,10 +5,10 @@ layout: default
   {% for post in paginator.posts %}
       <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
           <p class="author">
-              <span class="date">{{ post.date }}</span>
+              <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
           </p>
       <div class="content">
-          {{ post.content }}
+          <p>{{ post.excerpt | strip_html | truncate: 260 }}</p>
       </div>
   {% endfor %}
 
@@ -37,7 +37,7 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
-
+<br>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
