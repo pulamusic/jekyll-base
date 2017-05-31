@@ -18,3 +18,5 @@ The other thing I could do is to maintain them as separate entities. In fact, th
 At some point I would like to produce more thematically related freewriting - more than just writing about writing and coding and life, it would be useful to maintain an idea across multiple posts.
 
 There we go. Now I've hit on something. Let me check out the writing books and see if I can devise a strategy for moving toward a more sustained aesthetic. While I am enjoying the no-pressure attitude of this blog, at some point I need to tighten it up.
+
+![Sun Ra](https://github.com/pulamusic/jekyll-base/blob/master/_posts/150x219_SunRa_rollingstone_head.png)
