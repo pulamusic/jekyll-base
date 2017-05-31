@@ -23,7 +23,7 @@ sitemap: false
     {% for post in sorted_posts %}
     {%if post.categories contains category[0]%}
       <p>
-        <a href="{{ https://pulamusic.github.io/jekyll-base }}{{ https://github.com/pulamusic/jekyll-base }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <p class="date">{{ post.date |  date: "%B %e, %Y" }}</p></a>
+        <a href="{{ https://pulamusic.github.io/ }}{{ /jekyll-base/ }}{{ post.url }}" title="{{ post.title }}">{{ post.title }} <p class="date">{{ post.date |  date: "%B %e, %Y" }}</p></a>
       </p>
     {%endif%}
     {% endfor %}
