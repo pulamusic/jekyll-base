@@ -5,8 +5,6 @@ date: 2017-05-31 12:17:00
 categories: life coding
 ---
 
-# why won't she go?
-
 So the kid refused to go to school this morning. Essentially, the principal yelled at her yesterday for not wearing a proper uniform. Zanaya got angry, yelled back, and left the school. Now she thinks she can just not go to school. Valerie now wants to move Zanaya to another program so she can get her GED, and I put my foot down. We have moved this kid to different schools so often she has not been able to establish a community of friends other than the few she has picked up here and there. If Zanaya totally refuses to go to school then we are really fucked. I refuse to move her again. I'm putting my foot down, and this little girl is going to listen.
 
 This has got me upset now. I need to force myself to write about something else.

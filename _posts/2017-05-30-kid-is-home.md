@@ -5,8 +5,6 @@ date: 2017-05-30 18:48:00
 categories: life coding writing
 ---
 
-# big relief
-
 Zanaya came home when Valerie offered to take her out for food. It figures food would be the palliative. Food always makes the kid relax. It's amazing that you can see her in a rotten mood, but just a few bites of food will turn her around almost instantly. This would be concerning if she was overweight, but this isn't the case. Food just brings her some comfort. Now I just need to figure out how to get her to go back to school tomorrow.
 
 Back to thinking about my writing. I have started to also post on the pulamusic blog. In fact, WordPress makes it very easy to grab a news story or YouTube video. Much simpler than using Jekyll for blogging, although I have other reasons for using Jekyll like learning to work with static site generators, GitHub pages, and Markdown. In fact, in order to style the Jekyll site I am going to need to learn Sass. I was able to change the background color by editing the compiled CSS file, but most of the styling for the site remains inaccessible to me because I don't understand Sass. Another coding project.

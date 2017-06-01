@@ -5,8 +5,6 @@ date: 2017-05-29 18:50:00
 categories: writing
 ---
 
-# ...or not
-
 Writing for the sake of writing is not all that productive from my point of view. It is always best to have some goals in mind. That being said, I should be able to pump out text on command whether I have goals in mind or not. The trick is to relax and just write.
 
 I know that sounds kind of goofy, but it makes sense to me. It's kind of like the advice Jack Jarrett gave our composition class while at Berklee: a composer should be able to compose music on demand. The craft of writing, like the craft of musical composition, shouldn't be dependent on "inspiration" in order to be productive. A real writer will write no matter what. In effect, this is what I am trying to accomplish with this freewriting blog: to be able to write substantively and voluminously on command.

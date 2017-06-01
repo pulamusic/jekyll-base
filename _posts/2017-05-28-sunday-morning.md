@@ -5,8 +5,6 @@ date: 2017-05-28 09:17:00
 categories: coding
 ---
 
-# lazy day of coding
-
 JavaScript is kicking my ass. I have to say that I don't really get the algorithmic nature of JavaScript. I can do basic stuff, but anything beyond basic and I am completely lost. I do understand the language better than I used to, but it still evades me, for the most part. This is the big sticking point for me.
 
 jQuery might be simpler. Maybe I should start the jQuery tutorials before finishing the JavaScript tutorials. I am well into the third of those and am completely lost.

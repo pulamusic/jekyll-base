@@ -5,8 +5,6 @@ date: 2017-05-31 16:16:00
 categories: writing coding academia
 ---
 
-# ...just keep going
-
 I'm in a writing mood today, so here goes my fourth post for the day. Each post has either approached or surpassed the 500 word mark, so I should have written about 2000 words by the end of this one. Something tells me, as well, that this may not be the last post of the day. I've got my writing on.
 
 Freewriting has really helped me to become a more productive writer, so this is an exercise I am going to continue for a while. At some point, though, I will need to make the transition from pure freewriting to a more academic form of freewriting. The ultimate goal, of course, is to improve my professional skill set with regard to writing.
