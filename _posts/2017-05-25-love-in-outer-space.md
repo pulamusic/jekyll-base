@@ -11,7 +11,7 @@ The version of this tune is from *A Quiet Place in the Universe*. I need to find
 
 I swear, the whole horn section must be playing percussion. It improved when there were percussion solos, but this is too much.
 
-<img src="media/150x219_SunRa_rollingstone_head.png" alt="Sun Ra">
+<img src="https://pulamusic.github.io/jekyll-base/media/150x219_SunRa_rollingstone_head.png" alt="Sun Ra">
 
 Here's a better version of the tune. More piano, plus a guitar solo.
 
