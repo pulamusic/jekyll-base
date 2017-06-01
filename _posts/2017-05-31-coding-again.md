@@ -5,6 +5,8 @@ date: 2017-05-31 13:38:00
 categories: coding
 ---
 
+Coding is interesting.
+
 Well that's an obvious statement. I fall short of calling it fun, but it is very interesting to me - another kind of fun.
 
 At some point I need to make a connection between my improving coding skills and my academic work. Essentially, I am ranging into the area known as the digital humanities. What I need to do is research the digital humanities to figure out where I fit - this collection of HTML, CSS, and JavaScript skills needs to mean something with regard to my work. Maybe, for the moment, this just means that I continue blogging as I have been doing. In the end, however, these skills need to add up to something academically substantial - something that helps my teaching and scholarship.
