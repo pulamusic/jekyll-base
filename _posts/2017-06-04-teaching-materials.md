@@ -25,8 +25,6 @@ Here's an outline for the portfolio site that may help me to re-think the site a
   * links to pages of interest (e.g., Sun Ra and Fela)
 4. Music
   * sound files
-    * recordings
-    * audio files from midi
   * scores
 
 This is just a rough outline. I think the first thing to tackle is the home page. I have the beginning of a biography as it is, but I need to add the page summaries.
