@@ -4,6 +4,8 @@ title: about
 permalink: /about/
 ---
 
+<img src="media/20170226_131033.jpg" alt="Jim Carroll">
+
 My name is Jim Carroll. I am an academic and musician living in Western Mass.
 
 As an academic, I specialize in the cultural history of some musicians associated with the Black Arts and Black Power Movements of the 1960s. As a musician, I play blues and jazz, and I gig far too little.
