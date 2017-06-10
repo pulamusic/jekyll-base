@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-<img src="https://github.com/pulamusic/jekyll-base/blob/master/media/20170226_131033.jpg?raw=true" alt="Jim Carroll">
+<img src="jekyll-base/media/photo1.jpg" alt="Jim Carroll">
 
 My name is Jim Carroll. I am an academic and musician living in Western Mass.
 
