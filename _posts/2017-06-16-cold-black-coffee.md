@@ -1,0 +1,14 @@
+---
+layout: post
+title: "cold black coffee"
+date: 2017-06-16 12:16:00
+categories: life writing
+---
+
+I have an irritating habit of drinking leftover black coffee in the morning rather than making a fresh pot. I'll make coffee if there is none, but if there is any left over the next day that seems to suffice. It's probably kind of gross, but I don't really mind. I guess I could claim that I am being frugal when I do this, but really it's laziness. I like my coffee - and I certainly prefer fresh coffee - but it's not so important that I need a fresh pot every time.
+
+This kind of reminds me of dad's workshop. Looking through the workshop there is all kinds of evidence of finely detailed woodworking he had done, but the stands he built to hold his table saw and scroll saw are really crappy workmanship. They are clearly put together with scrap wood and old rusty nails, like he didn't give a shit about them. But that was dad. He wouldn't have given a shit about the table that holds up his band saw. All of his energy would have gone into the musical instrument or boat he was working on at the time, and almost no effort would have gone into building a workshop stand. Funny guy, but there it is.
+
+I almost feel the same about freewriting. My practice with this blog is to just pump it out and move on. In the case of my writing, though, there is a larger purpose to what I am doing - I am trying to improve my ability to bang out some words without thinking much about it. I am doing this because I am tired of the writing practice that has brought me as far as I have come. Granted, I have written an excellent doctoral dissertation along the way, but my writing has always been slow and meticulous, as if the reader is standing over my shoulder reading as I write. I much prefer Margaret Atwood's suggestion that a writer should write as if what he is writing will never be read. That is my attitude with this blog - I don't expect it to ever be read. I, however, may go back and re-read and possible edit some of what I have written in this blog, but that step is a long way off. For now I am going to continue banging it out and moving on.
+
+I haven't made any attempt with this blog to set specific themes or subjects to write about, though I would imagine I could find some if I were to re-read the blog. Perhaps I should do a periodic assessment of where this blog is headed so that I can begin to give it some structure while I am still freewriting. Freewriting doesn't necessarily have to be anything off the top of my head. No matter what I am writing about, the idea is to be able to gain a sense of flow in my writing. This blog has already massively helped, especially since I have set a 500 word minimum for my posts. At some point soon I am going to need to increase that minimum word count, but for now the 500 word goal is good enough.
