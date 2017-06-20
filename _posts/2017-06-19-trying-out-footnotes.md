@@ -10,6 +10,7 @@ Let me try out the footnotes functionality in Markdown. I think I just figured i
 Let me put a footnote here [^1]. And another one here [^2]. And finally, one more [^3].
 
 It works! Very cool.
+
 _____________
 
 [^2]: Kivy, Peter. 1979. *The Fine Art of Repetition*.
