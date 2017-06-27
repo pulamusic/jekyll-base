@@ -2,7 +2,7 @@
 layout: post
 title: "musical practice"
 date: 2017-06-27 11:55:00
-categories: music practice writing
+categories: music practice
 ---
 
 I played the guitar for a few hours today. I played some stuff from memory, and I learned a couple of Lightnin' Hopkins rhythms from a Stefan Grossman video. Let me list off some of the stuff I played from memory:
