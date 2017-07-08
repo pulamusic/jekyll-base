@@ -37,6 +37,8 @@ Let me write out a complete list of the bottleneck tunes I'm working on and/or s
 26. "Walking Blues," Son House
 27. "Tom Rushen Blues," Charlie Patton
 28. "Mississippi Bo Weavil," Charlie Patton
+29. "Levee Camp Moan," Son House
+30. "Future Blues," Willie Brown
 
 **Open-D/E**:
 
@@ -88,6 +90,7 @@ Let me write out a complete list of the bottleneck tunes I'm working on and/or s
 22. "Mopper's Blues," Big Bill Broonzy
 23. "Long Tall Mama," Big Bill Broonzy
 24. "Brownskin Shuffle," Big Bill Broonzy
+25. "M&O Blues," Willie Brown
 
 **Open-Dm/Em (crossnote) tuning**:
 
