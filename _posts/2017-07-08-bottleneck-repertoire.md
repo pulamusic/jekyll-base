@@ -35,6 +35,8 @@ Let me write out a complete list of the bottleneck tunes I'm working on and/or s
 24. "Little Red Rooster," Howlin' Wolf
 25. "My Black Mama," Son House
 26. "Walking Blues," Son House
+27. "Tom Rushen Blues," Charlie Patton
+28. "Mississippi Bo Weavil," Charlie Patton
 
 **Open-D/E**:
 
