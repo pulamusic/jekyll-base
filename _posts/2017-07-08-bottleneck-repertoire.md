@@ -5,7 +5,7 @@ date: 2017-07-08 14:04:00
 categories: guitar blues
 ---
 
-Let me write out a complete list of the bottleneck tunes I'm working on and/or should be working on. Print out this list and use it for reminding me of the extent of my repertoire. Lear to sing the tunes as well as playing the guitar parts
+Let me write out a complete list of the bottleneck tunes I'm working on and/or should be working on. Print out this list and use it for reminding me of the extent of my repertoire. Learn to sing the tunes as well as playing the guitar parts
 
 **Open-G/A**:
 
