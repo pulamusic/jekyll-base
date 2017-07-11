@@ -1,0 +1,15 @@
+---
+layout: post
+title: "learning Robert Johnson"
+date: 2017-07-11 14:36:00
+categories: music guitar
+---
+My title is a bit vague, but it is more indicative of how I learn to play music than anything else I can come up with at the  moment. When I learn from a musician's recordings I also like to read about the musician, the musical style, learn the lyrics, copy the guitar parts exactly, and so on. Really, this is a kind of holistic approach to a subject that could be much simpler, but the simple way does not interest me. I like to know who a person is, not just what the guitar sounds like. I might be a better guitar player if I could just focus on the playing, but I like the approach I take.
+
+Johnson was an interesting person, but what interests me is the mythology that has been built around him. Johnson is one of those players whose skills are exceptional, but whose influence on the development of the blues has been grossly overstated. I look at his renown as being a reflection of the tastes of young white record collectors from the 1960s rather than as an indication of his actual status. Johnson's story is a big part of the lopsided story of the blues that has grown to dominate the discourse since the 60s.
+
+That being said, I am absolutely a fan of his playing and singing. I've been working on "Crossroad Blues" a bit, and I'm really struck by how fluently he uses the whole range of the instrument as well as by the very high tuning of his instrument - it's more like open-B than any of the more common tunings, although it is still what one would call Spanish tuning (F#BF#BD#F#). Johnson's voice is also relatively high pitched, so much so that I can't hope to emulate his singing. I would be more likely to play his guitar parts in open-A, and sing the tunes more like Son House. My natural singing voice can be either deep or falsetto, but I prefer a deeper, growling range and timbre.
+
+Another part of learning Johnson's tunes is that once I understand the basic riffs it is fairly easy to understand the broader form, even given that Johnson plays tunes like "Crossroad Blues" with uneven measures - the transcriptions have bars of 6/4 and 3/4 interspersed with the more regular 4/4. The overall effect is that his blues are not always 12 bars, being more fluid than that. This is something I hear in a lot of players like John Lee Hooker and Lightning Hopkins. It's a lot of fun to play along with because even though the bars are uneven they still feel right. Music needs to be more free-flowing in general, and the blues is always potentially free, if not literally.
+
+What I like about Johnson's playing in Spanish tuning is that it roars - if this is what Clapton responded to about "Crossroad Blues" he certainly did not capture the energy of Johnson's playing. In my mind this is what the delta blues sounds like. He's got riffs that sound as nuanced and fierce as Son House's playing, but the higher tuning really adds a wailing tone to his performance. Fuck Clapton, he missed the boat. Re-tune the fucking instrument and try to catch some of the lightning.
