@@ -1,0 +1,19 @@
+---
+layout: post
+title: "something"
+date: 2017-07-22 16:23:00
+categories: writing
+---
+I hate having to write a title before writing the essay. I suppose I could simply re-write the title after writing the essay, but since this is a freewriting blog I am reticent to go back and edit anything. Hence the stupid title I've given to this post.
+
+I was skimming through Kenny Werner's book *Effortless Mastery* earlier today and I was struck by something he wrote regarding the creation of a more productive relationship with playing music; it occurs to me that what he has to say is applicable to writing as well. One of the suggestions he has is to focus first on the authority with which we play musical notes rather than whether those notes are technically right or wrong. His example is that, in workshops, he can demonstrate, for instance, his playing the chords to "All the Things You Are" in A-flat (really, that tune has so many key centers I hesitate to say that it is in A-flat) while improvising in the key of A. His point is that he can phrase so convincingly in the key of A that the improv sounds like it fits, even given that the keys of A and A-flat are traditionally though of as very distant. In effect, because Werner commits himself to the idea that what he plays will sound relevant, he makes it happen.
+
+In a sense, I think, this is similar to freewriting in that, when I freewrite, I don't particularly care if the words are consonant or dissonant with my intentions - when I freewrite I am just writing, not paying attention to the key I am in. I guess this is similar to something one of my Berklee teachers once said: there is only one scale - the chromatic scale. What the guy was saying, in this instance, is that it doesn't matter which notes you play so long as they are phrased and framed with conviction.
+
+The same holds true with writing: no matter what the theme or thesis, the best thoughts are usually the most authentic. This is not to say that freewritten material can't be improved with a judicious amount of editing and re-writing. Rather, there is a great deal of honesty, and a kernel of good writing, in what comes out first. Werner's point, though, is that one needs to believe in what one plays rather than only putting faith in the theory of music. What I have found in my writing as I have progressed with this freewriting blog is that I have been learning to trust my writerly instincts rather than constantly second guessing what I write as I write it. My ability to write convincing text in shorter periods of time has increased gloriously, I must say. Now I look forward to my writing time since I have more confidence that I can produce something worthwhile in a short period of time.
+
+Of course, the next step in this process is to spend more energy learning to edit what I write, but for now I am going to continue to work on my ability to solidly freewrite, leaving the editing process behind me until I can't bear it any more. To that end, I will continue to freewrite only with this blog until I am compelled to begin to edit it. I can start by weeding out the posts that are of no consequence, but ultimately it would be nice to combine and edit a number of these posts in order to create more substantial works.
+
+In fact, at that point I could migrate what I have written to a Wordpress blog so as to have more control over the use of images, videos, audio, and other media. What I should do, when I am ready, is to re-direct the output of the pulamusic blog so as to feature my writing more than my tastes in music. Currently, that blog is just a rundown of the cool music and musical resources I find while I surf around the web. Ultimately, though, it would be of more use to me as a substantial blog with well written, informative posts. Yeah, that's the ticket. That way I can continue to freewrite as a means of producing material for the more substantive pulamusic blog.
+
+This sounds like a plan.
