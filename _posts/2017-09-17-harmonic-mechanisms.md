@@ -4,6 +4,9 @@ title: "Harmonic Mechanisms"
 date: 2017-09-17 17:15:00
 categories: music guitar
 ---
+I've been away from this blog for an extended hiatus. Since I've been away I have been practicing the guitar regularly. Below is a rough (incomplete) outline of a section of Van Eps's *Harmonic Mechanisms* I am working on. My impression is that the end result of these exercises should be to be able to keep melodic lines moving within a harmonic context.
+
+It's all about moving lines baby!
 
 George Van Eps, *Harmonic Mechanisms for Guitar*, Super and Sub Series: 160-256
 
@@ -69,6 +72,6 @@ George Van Eps, *Harmonic Mechanisms for Guitar*, Super and Sub Series: 160-256
   * Harmonic minor
 
   * Melodic minor
-  
+
 4. Open voiced triads: 244-48
 5. Multi-voice movement: 249-56
