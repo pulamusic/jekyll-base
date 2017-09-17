@@ -11,6 +11,7 @@ It's all about moving lines baby!
 George Van Eps, *Harmonic Mechanisms for Guitar*, Super and Sub Series: 160-256
 
 1. 1st inversion triads: 166-222
+
   * Major
     * Upper voice super: 166-68
     * Middle voice super: 169-71
@@ -36,6 +37,7 @@ George Van Eps, *Harmonic Mechanisms for Guitar*, Super and Sub Series: 160-256
     * Lower voice sub: 220-22
 
 2. 2nd inversion triads: 223-38
+
   * Major
     * Upper voice super: 224
     * Middle voice super: 225
@@ -61,6 +63,7 @@ George Van Eps, *Harmonic Mechanisms for Guitar*, Super and Sub Series: 160-256
     * Lower voice sub: 238
 
 3. Root position triads: 239-43
+
   * Major
     * Upper voice super: 241
     * Middle voice super: 241
