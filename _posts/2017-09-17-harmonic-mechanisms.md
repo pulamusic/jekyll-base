@@ -77,4 +77,6 @@ George Van Eps, *Harmonic Mechanisms for Guitar*, Super and Sub Series: 160-256
   * Melodic minor
 
 4. Open voiced triads: 244-48
+  * NOTE: Van Eps only writes out C major and C harmonic minor for super and sub. Transpose to all other keys and for melodic minor
+
 5. Multi-voice movement: 249-56
