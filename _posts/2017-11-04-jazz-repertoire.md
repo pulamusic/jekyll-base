@@ -21,7 +21,7 @@ Here's a simple list of the tunes I am currently working on as chord solos. Let 
 * "Nice Work if You Can Get It," George Gershwin & Ira Gershwin, arr. Howard Morgen
 * "'Round Midnight," Thelonious Monk, Cootie Williams & Bernie Hanighen, arr. Howard Morgen
 * "Speak Low," Kurt Weill & Ogden Nash, arr. Howard Morgen & arr. Rick Stone
-  * two separate arrangements in two different guitar keys. Morgen's arrangement is in E Dorian, allowing the use of open bass strings. Sone's arrangement is in G Dorian, allowing the use of 12th and 7th fret harmonics for melody notes.
+  * two separate arrangements in two different guitar keys. Morgen's arrangement is in E Dorian, allowing the use of open bass strings. Stone's arrangement is in G Dorian, allowing the use of 12th and 7th fret harmonics for melody notes.
 * "Stardust," Hoagie Charmichael, arr. Howard Morgen
 * "Summertime," George Gershwin, DuBose Heyward, Dorothy Heyward & Ira Gershwin, arr. John C. Purse
 
