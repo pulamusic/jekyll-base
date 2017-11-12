@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "*Harmonic Mechanisms for Guitar*"
+title: "Harmonic Mechanisms for Guitar"
 date: 2017-09-17 17:15:00
 categories: music guitar
 ---
