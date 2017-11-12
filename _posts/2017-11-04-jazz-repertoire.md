@@ -24,6 +24,7 @@ Here's a simple list of the tunes I am currently working on as chord solos. Let 
   * two separate arrangements in two different guitar keys. Morgen's arrangement is in E Dorian, allowing the use of open bass strings. Stone's arrangement is in G Dorian, allowing the use of 12th and 7th fret harmonics for melody notes.
 * "Stardust," Hoagie Charmichael, arr. Howard Morgen
 * "Summertime," George Gershwin, DuBose Heyward, Dorothy Heyward & Ira Gershwin, arr. John C. Purse
+* "Yesterdays," Jerome Kern & Otto Harbach, arr. Corey Christiansen
 
 So now I have revised the list the next day, adding the names of composers, lyricists, and arrangers. While I am going to stick to this list for now, memorizing and developing these arrangements, it is still just a modest list for a performance repertoire.
 
