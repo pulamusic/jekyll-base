@@ -13,4 +13,5 @@ No, I am not the <a href="http://www.catholicboy.com" target="_blank">Jim Carrol
 Check out my other blog at <a href="http://www.pulamusic.com" target="_blank">pulamusic.com</a>. You can also access my work portfolio <a href="https://pulamusic.github.io/index.html" target="_blank">here</a>, which includes a link to my doctoral dissertation, <a href="https://pulamusic.github.io/Carroll%20Dissertation%20Composing%20the%20African%20Atlantic.pdf" target="_blank">*Composing the African Atlantic: Sun Ra, Fela Anikulapo-Kuti and the Poetics of African Diasporic Composition*</a>.
 
 ---
+
 ![Jim Carroll & Mtali Banda](media/Jim&MtaliMay 2014.jpg)
