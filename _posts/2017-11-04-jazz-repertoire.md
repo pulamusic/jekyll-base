@@ -11,6 +11,7 @@ Here's a simple list of the tunes I am currently working on as chord solos. Let 
 * "Alone Together," Arthur Schwartz & Howard Dietz, arr. Howard Morgen
 * "Bluesette," Toots Thielemans & Norman Gimbel, arr. Dave Frackenpohl
 * "Body and Soul," John Green, Edward Hayman, Robert Sour & Frank Eyton, arr. Howard Morgen & arr. Ron Berman
+* "But Not For Me," George & Ira Gershwin, arr, Barry Greene
 * "Invitation," Bronislau Kaper, arr. Dave Frackenpohl
 * "It's Only a Paper Moon," Harold Arlen, Billy Rose & E.Y. Harburg, arr. Howard Morgen
 * "Li'l Darlin'," Neal Hefti, arr. Howard Morgen
