@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Harmonic Mechanisms for Guitar"
+title: "Harmonic Mechanisms"
 date: 2017-09-17 17:15:00
 categories: music guitar
 ---
@@ -68,9 +68,9 @@ George Van Eps, *Harmonic Mechanisms for Guitar*, Super and Sub Series: 160-256
     * Upper voice super: 241
     * Middle voice super: 241
     * Lower voice super: 241
-    * Upper voice sub: 242
-    * Middle voice sub: 242
-    * Lower voice sub: 242
+    * Upper voice sub:
+    * Middle voice sub:
+    * Lower voice sub:
 
   * Harmonic minor
 
