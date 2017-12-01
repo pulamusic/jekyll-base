@@ -8,7 +8,9 @@ I've continued to work on my coding skills while I am still at mom's house (I sh
 
 ---
 
-**A URL Shortener/Expander**: I haven't posted this app on the internet yet - I'll update this post when I do - but I just created a JavaScript app, through a Codecademy tutorial, for both shortening long URLs and expanded already-shortened URLs. I know I can shorten a URL with [bitly.com](https://bitly.com/), but my app takes advantage of the Google URL shortener API. It's an interesting exercise, and I think I can reuse the JavaScript structure in creating other apps that make use of other APIs. I did, at one point, create a [weather app on Codepen](https://codepen.io/pulamusic/pen/jBZLMp) (for some reason it no longer works), but this URL shortening/lengthening app works perfectly so far.
+**[A URL Shortener/Expander](https://pulamusic.github.io/AJAXRequestPractice/index.html)**: I haven't posted this app on the internet yet - I'll update this post when I do - but I just created a JavaScript app, through a Codecademy tutorial, for both shortening long URLs and expanded already-shortened URLs. I know I can shorten a URL with [bitly.com](https://bitly.com/), but my app takes advantage of the Google URL shortener API. It's an interesting exercise, and I think I can reuse the JavaScript structure in creating other apps that make use of other APIs. I did, at one point, create a [weather app on Codepen](https://codepen.io/pulamusic/pen/jBZLMp) (for some reason it no longer works), but this URL shortening/lengthening app works perfectly so far.
+
+> NOTE: I have now uploaded this app to my GitHub account, and it is working well. I have added a link to the app both above as well as [here](https://pulamusic.github.io/AJAXRequestPractice/index.html).
 
 **[jQuery Box Toggle](https://pulamusic.github.io/box_toggle.html)**: This page, and the next page, are silly examples I created just messing around with jQuery. I think I got the code from the [W3Schools](https://www.w3schools.com/) site, essentially forking the code from the examples they give for every coding problem they can think of. In fact, here is the basic jQuery code I think I borrowed:
 
