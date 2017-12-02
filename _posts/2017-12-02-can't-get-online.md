@@ -1,0 +1,19 @@
+---
+layout: post
+title: "can't get online"
+date: 2017-12-02 12:27:00
+categories: writing coding
+---
+I can't currently get online to upload my last post, so let me continue to write. I am currently on a bus from Boston to Springfield, and the wifi seems to be a bit funky. Oh well, I'm in the mood for writing anyway. I think the last post was particularly helpful for me in thinking through a few things with regard to coding. Let me see if I can continue on with some of the same energy.
+
+By the way, let me first comment that this is exactly why I began this freewriting blog - I want to be better at writing in order to think things through. For the past month or so I have been writing posts about my musical practice and coding, and the more I contemplate these topics the more fluent my writing becomes. All I need to do is keep on keeping on.
+
+Anyway, let me write some about coding.
+
+**Websites &amp; Pages**: This is what I have done the most of so far, though I'm not crazy about the look of most of the sites I have created. I would like to work on my CSS skills and then either improve the sites I have already created, or scrap them altogether and start again from the beginning. Probably the latter would be best. In particular, I would like my work portfolio to be one large-ish parallax web page, allowing people to visit other pages if need be, but keeping all the most important stuff on one page. The page should have areas for my teaching and academic work as well as my music and my blogging. I can easily fork a parallax page from the W3Schools website, but before I do that I should have the entire site's structure fully mapped out, writing the text and gathering the images, sound files, and videos ahead of time. I'll bet I can find somewhere online that will walk me through a process for organizing a website. Let me do a search for that just now (in fact, there is a site called the [Web Style Guide](http://webstyleguide.com/index.html) which is a free version of a book the authors have published. It looks interesting.).
+
+**Apps**: The only apps I have created so far - a weather app and a URL shortener/lengthener - have been from online tutorials. My coding skills are not yet up to scratch where this is concerned, but I know enough to be able to hack other people's ideas. I need to keep my mind open about what to create: an audio jukebox; an RSS feed reader; a Fela quote generator; etc. I need more experience with JavaScript and its libraries in order to figure out my options. Mostly, I just want to add bells and whistles to a personal website, but I need to keep my mind open.
+
+**Music**: Mostly what I need to do here is record more music and have it available online. I wish I could find some sort of jukebox widget I could add to a web page so I don't have to embed individual sound files one at a time (maybe I can create my own jukebox app). Another idea for music is to record a number of podcasts so I can present some playlists of music. That would be very cool indeed. I need to get myself a copy of [Pro Tools](http://www.avid.com/pro-tools), a better audio interface, and a better microphone, although I could podcast with stuff I already have. Still, it would be nice to have a good quality, permanent recording setup.
+
+**Writing**: This is an area where my coding skills are already paying dividends. Creating, writing, tweaking, and managing this blog has been a great learning experience, especially given that I have learned how to use [Jekyll](https://jekyllrb.com/). I like how dead simple Jekyll's presentation is, and I like that it is tweakable. After generating the site I have added some social media links to the pages, and I have set it up for pagination - 10 posts per page rather than a long list of all posts. Pagination is particularly helpful given that I currently have more than 160 posts on this site.
