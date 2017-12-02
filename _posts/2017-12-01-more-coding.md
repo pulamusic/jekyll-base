@@ -14,19 +14,23 @@ I've continued to work on my coding skills while I am still at mom's house (I sh
 
 **[jQuery Box Toggle](https://pulamusic.github.io/box_toggle.html)**: This page, and the next page, are silly examples I created just messing around with jQuery. I think I got the code from the [W3Schools](https://www.w3schools.com/) site, essentially forking the code from the examples they give for every coding problem they can think of. In fact, here is the basic jQuery code I think I borrowed:
 
-> ```$(document).ready(function(){
+```javascript
+$(document).ready(function(){
     $("button").click(function(){
         $("p").toggle();
     });
-});```
+});
+```
 
 It doesn't seem to print in this post as I structure it on a page, but, nonetheless, this is the code.
 
 **[jQuery Slide Toggle](https://pulamusic.github.io/slide_toggle.html)**: This is another silly page that shows another way to show/hide elements on a page. I believe this is the code I forked:
 
-> ```$("button").click(function(){
+```javascript
+$("button").click(function(){
     $("p").slideToggle();
-});```
+});
+```
 
 **[Bootstrap Modal](https://pulamusic.github.io/modal.html)**: Again, a silly page - I basically just used one doctored photo of Sun Ra for all three pages - that gives an example of a modal created using the Bootstrap HTML/CSS framework. The code I forked for this one is a bit too complex to cite like I have done above, but [here](https://github.com/pulamusic/pulamusic.github.io/blob/master/modal.html) is a link to the code as it resides on my GitHub account. No big deal in general, but it is just some fun I have had with coding.
 
