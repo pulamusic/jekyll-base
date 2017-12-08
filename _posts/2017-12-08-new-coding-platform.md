@@ -10,7 +10,7 @@ I'm trying out a new coding platform: [repl.it](https://repl.it/repls). This see
 
 And now it is later...well, ten minutes later. The embed worked really well, so now I feel like I can write a full post. **Repl.it** seems like it will be a useful resource. In addition to JavaScript, I can use it to test out Ruby, HTML, CSS, Python, and a number of other languages. This is a much more useful way to test code rather than using a browser console. It will be interesting to see how it works with HTML and CSS.
 
-I struggled quite a bit today with one of the Codecademy projects, and I found repl.it when I asked for some help and the helper used repl.it to show me part of an answer. Below is the code I have been working on so far. Bear in mind that it still doesn't work.
+I struggled quite a bit today with one of the [Codecademy projects](https://gist.github.com/e9261fe8dc16210c32c10d46e136c5d1), and I found repl.it when I asked for some help and the helper used repl.it to show me part of an answer. Below is the code I have been working on so far. Bear in mind that it still doesn't work.
 
 ```javascript
 const menu = {
