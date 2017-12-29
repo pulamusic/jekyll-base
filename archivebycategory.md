@@ -1,6 +1,6 @@
 ---
 layout: page
-title: post by category
+title: posts by category
 permalink: /categoryview/
 sitemap: false
 ---
