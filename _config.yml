@@ -12,4 +12,4 @@ paginate: 20
 paginate_path: "/blog/page:num/"
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: minima
