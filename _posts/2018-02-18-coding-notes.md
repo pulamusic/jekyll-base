@@ -5,7 +5,7 @@ date: 2018-02-18 18:16:00
 categories: coding
 ---
 
-I thought I might as well blog this. These are notes for a Udemy course titled [Coding Interview Prep](https://www.udemy.com/javascript-interview-prep/learn/v4/content). The answers below are coded out on the Repl.it and Codepen websites. I have added hyperlinks to each of the code examples.
+I thought I might as well blog this. These are notes for a Udemy course titled [JavaScript Interview Prep](https://www.udemy.com/javascript-interview-prep/learn/v4/content). The answers below are coded out on the Repl.it and Codepen websites. I have added hyperlinks to each of the code examples.
 
 Also check out the following resources for practice algorithms: [JS: Interview Algorithm](https://thatjsdude.com/interview/js1.html); [Learning Algorithms in Javascript From Scratch](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch/learn/v4/overview); [Coderbyte challenges](https://coderbyte.com/challenges); [Khan Academy JS interview questions](http://khan4019.github.io/front-end-Interview-Questions/sort.html); etc. Also check out [freeCodeCamp.org](https://www.freecodecamp.org) for a whole bunch of algorithm challenges.
 
