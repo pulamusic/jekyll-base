@@ -5,6 +5,10 @@
 
   <body>
 
+    <input type="text" id="search-input" placeholder="search posts..">
+    <br/>
+    <div id="results-container"></div>
+
     {% include header.html %}
 
     <div class="page-content">
@@ -15,6 +19,15 @@
 
     {% include footer.html %}
 
+    <script src="https://unpkg.com/simple-jekyll-search@1.5.0/dest/simple-jekyll-search.min.js"></script>
+    <script>
+    SimpleJekyllSearch({
+      search-input: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json',
+      searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
+    })
+    </script>
   </body>
 
 </html>
