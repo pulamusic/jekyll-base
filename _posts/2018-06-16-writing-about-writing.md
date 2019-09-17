@@ -1,0 +1,14 @@
+---
+layout: post
+title: "writing about writing"
+date: 2018-06-16 13:56:00
+categories: writing
+---
+
+Let me try writing an entire blog post worth of words, just testing out the software a bit. This thing has word count, so I just need to drone on a bit until I reach my 500-word minimum. Still, I’m just freewriting, but freewriting with a direction in mind.
+
+What I need to do is write a bit just now about writing. I have several essay-length projects I could spiff up or extract from my diss. Let me list out the projects I could be working on and then write a bit about each. Yeah, I think I’ll do that for now.
+
+* **Afternoon of a Georgia Faun** (article): I don’t know why I didn’t get this one together when I was just off of writing the original draft. It really wouldn’t have taken much to flesh out the analysis and find a journal to send it to. I would need to re-familiarize myself with the whole subject at this point, not having read it in years... And now I have come back to this essay after writing on for a bit about the book project. I figure I should have another crack at this one. I really dug Marion Brown’s work, and this is definitely my favorite album. What I really appreciate about this work is how Brown created his own rules for what constitutes musical sound, and what hierarchies and taxonomic categories influence the syntax and grammar of the composition. It really is a unique relationship between the composer and the music composed - it’s essentially free improvised, constraining the musicians by timbre and instrument construction.
+
+* **Composing the African Atlantic** (book): I just need to get the book proposal together and send it off. I pretty much know who I should be corresponding with at Indiana - at least I did know a few years ago, maybe not any more. I can easily figure it out, though. But really, I owe it to myself to re-read the whole document at some point and just barrel on from there. The bulk of the work has been done, so really I don’t know what holds me up at this point. I guess I have a fear of rejection because I worry about what people I don’t know are going to think about something they haven’t yet seen or heard of. In any event, I need to get off my ass and get my writing out there. The response to the dissertation has been heartening, with roughly 250 downloads. But it’s the book that will really signal my entry into academia. And so this brings me full circle to the point at hand: getting the book published. I need to start by re-reading the thing and roughing out a book proposal. I then need to separate the MS into its various chapters with the Endnote fields fully available, and I need to start thinking about each chapter as a separate entity. I then need to get on things like fleshing out Ch.3 and trimming off of Ch.4. Ch.5 could have a more meaningful denoument. And Chs.1, 2 & 5 need to all vibrate at the right frequency.
