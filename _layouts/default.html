@@ -4,9 +4,6 @@
   {% include head.html %}
 
   <body>
-    <!-- HTML elements for search -->
-    <input type="text" id="search-input" placeholder="Search blog posts..">
-    <ul id="results-container"></ul>
 
     {% include header.html %}
 
@@ -17,16 +14,7 @@
     </div>
 
     {% include footer.html %}
-    <!-- script pointing to jekyll-search.js -->
-    <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
-    <script>
-        SimpleJekyllSearch({
-          search-input: document.getElementById('search-input'),
-          resultsContainer: document.getElementById('results-container'),
-          json: '/search.json',
-          searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
-        })
-    </script>
+
   </body>
 
 </html>
