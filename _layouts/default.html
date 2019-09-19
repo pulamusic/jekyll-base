@@ -4,10 +4,9 @@
   {% include head.html %}
 
   <body>
-
-    <input type="text" id="search-input" placeholder="search posts..">
-    <br/>
-    <div id="results-container"></div>
+    <!-- HTML elements for search -->
+    <input type="text" id="search-input" placeholder="Search blog posts..">
+    <ul id="results-container"></ul>
 
     {% include header.html %}
 
@@ -18,15 +17,15 @@
     </div>
 
     {% include footer.html %}
-
-    <script src="https://unpkg.com/simple-jekyll-search@1.5.0/dest/simple-jekyll-search.min.js"></script>
+    <!-- script pointing to jekyll-search.js -->
+    <script src="https://cdn.rawgit.com/christian-fei/Simple-Jekyll-Search/master/dest/simple-jekyll-search.min.js"></script>
     <script>
-    SimpleJekyllSearch({
-      search-input: document.getElementById('search-input'),
-      resultsContainer: document.getElementById('results-container'),
-      json: '/search.json',
-      searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
-    })
+        SimpleJekyllSearch({
+          search-input: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '/search.json',
+          searchResultTemplate: '<li><a href="{{ site.url }}{url}">{title}</a></li>'
+        })
     </script>
   </body>
 
