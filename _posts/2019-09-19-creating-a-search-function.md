@@ -16,5 +16,7 @@ I also tried [simple-jekyll-search](https://github.com/christian-fei/Simple-Jeky
 
 I could also try creating a [Google custom search engine](https://learn.cloudcannon.com/jekyll/google-custom-search-engine/) for the site. This looks like it may be a simple procedure.
 * **NOTE**: It was dead simple. Let me upload this to see if it works. If so, I can style it a bit.
+* Ha, It works! In fact, searching for "JavaScript" led to me finding multiple files on algorithms I had forgotten. Cool stuff.
+* Let me
 
 What I really needed to have done is pay a little more attention to the categories for each post. I currently have [76 posts in the "coding" category](https://pulamusic.github.io/jekyll-base//categoryview/#coding), which really doesn't help if I want to find the three or four posts that list JavaScript algorithms, for instance.
