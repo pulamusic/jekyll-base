@@ -234,3 +234,20 @@
         }
     }
 }
+
+.contact {
+  font-size: 18px;
+
+  input {
+    padding: 3px;
+  }
+
+  textarea {
+    width: 500px;
+    padding: 5px;
+  }
+
+  button {
+    padding: 5px;
+  }
+}
